@@ -2,7 +2,4 @@
 ## is Transformer's One
 ## BSIT 3E
 
-**Transformers One is good for all ages because it's shows the backstory of megatron and optimus prime in the world of iacon**
-
-`git.push`
-THAT'S ALL HEHE
+**Transformers One is good for all ages because it shows the backstory of Megatron and Optimus Prime in the world of Iacon**
