@@ -1,9 +1,8 @@
-# goza fav
-## series/movies
+# goza fav series/movies
+## is Transformer's One
 ## BSIT 3E
-**bold text**
-1. Transformers 1 to One
-2. Despicable Me 1 to 3
-3. Moana
+
+Transformers One is good for all ages because it's shows the backstory of megatron and optimus prime in the world of iacon**bold text**
+
 `git.push`
-yawa
+THAT'S ALL HEHE
