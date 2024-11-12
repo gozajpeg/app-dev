@@ -1,5 +1,6 @@
-# goza fav series/movies
-## is Transformer's One
-## BSIT 3E
+#GOZA 3E
+##INFORMATION ABOUT FAV SERIES/MOVIES
+###TITLE: TRANSFORMERS ONE
 
-**Transformers One is good for all ages because it shows the backstory of Megatron and Optimus Prime in the world of Iacon**
+**INFORMATION**
+- This movie displays the backstory of Megatron and Optimus Prime in the world of IACON. They are once brothers before they become foes. Watch the movie to see the meaning of their life.
